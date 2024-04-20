@@ -124,7 +124,7 @@
 
 <div align='center'>
 
-## <b> BIXIANGZHU (朱碧翔)✨</b>
+## <b> BIXIANG ZHU (朱碧翔)✨</b>
 
 </div>
 <br>
