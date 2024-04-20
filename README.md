@@ -36,6 +36,7 @@
     ![Kotlin](https://img.shields.io/badge/Kotlin%20-%23F7DF1E.svg?style=for-the-badge&logo=kotlin&logoColor=black)
     ![Java](https://img.shields.io/badge/Java%20-%23F7DF1E.svg?style=for-the-badge&logo=javat&logoColor=black)
     ![HTML](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+    ![XML](https://img.shields.io/badge/XML%20-%23E34F26.svg?style=for-the-badge&logo=xml&logoColor=white)
     ![CSS](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
 <br>   
@@ -43,6 +44,7 @@
 - **Cloud Hosting**:
 
     ![Github Pages](https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?style=for-the-badge&logo=github&logoColor=white)
+    ![One Drive](https://img.shields.io/badge/OneDrive%20-%23327FC7.svg?style=for-the-badge&logo=onedrive&logoColor=white)
     
 <br>
 
@@ -52,13 +54,15 @@
     ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
     ![Google](https://img.shields.io/badge/google-%234285F4.svg?style=for-the-badge&logo=google&logoColor=white)
     ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-    ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) 
+    ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+    ![Windows](https://img.shields.io/badge/Windows-FCC624?style=for-the-badge&logo=windows&logoColor=black) 
 
 <br>
 
 - **Extras**:
 
     ![Terminal](https://img.shields.io/badge/Terminal-%23054020?style=for-the-badge&logo=gnu-bash&logoColor=white)
+    ![Bash](https://img.shields.io/badge/Bash-%23054020?style=for-the-badge&logo=bash&logoColor=white)
     ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)   
 
 
