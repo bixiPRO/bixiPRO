@@ -34,7 +34,7 @@
     
     ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
     ![Kotlin](https://img.shields.io/badge/Kotlin%20-%23F7DF1E.svg?style=for-the-badge&logo=kotlin&logoColor=black)
-    ![Java](https://img.shields.io/badge/Java%20-%23F7DF1E.svg?style=for-the-badge&logo=javat&logoColor=black)
+    ![Java](https://img.shields.io/badge/Java%20-%23F7DF1E.svg?style=for-the-badge&logo=java&logoColor=black)
     ![HTML](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
     ![XML](https://img.shields.io/badge/XML%20-%23E34F26.svg?style=for-the-badge&logo=xml&logoColor=white)
     ![CSS](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
