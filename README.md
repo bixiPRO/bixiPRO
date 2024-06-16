@@ -19,7 +19,7 @@
 
 - Passionate for Programming and Cybersecurity
 - Currently learning Computer Systems Administration and Networking
-- I’m currently open for a new job opportunity, this is [my resume](https://me-qr.com/mobile/pdf/21630096)
+- I’m currently open for a new job opportunity, this is [my resume]([https://me-qr.com/mobile/pdf/21630096](https://me-qr.com/mobile/pdf/23054354))
 
 <br><br>
 
